@@ -1,7 +1,7 @@
 # ReadMe.txt for CSImageClick 1.0
 
 ## Overview
-CSImageClick is a Windows application designed to automate mouse clicks based on AI image recognition. It continuously scans the screen for images found in same folder and performs clicks when matches are found. This tool is particularly useful for repetitive tasks that require clicking on specific UI elements.
+CSImageClick is a Windows application designed to automate mouse clicks based on image recognition. It continuously scans the screen for images found in same folder and performs clicks when matches are found. This tool is particularly useful for repetitive tasks that require clicking on specific UI elements.
 
 ## Features
 - Image Recognition: Automatically detects images on the screen and clicks on them.
