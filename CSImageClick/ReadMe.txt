@@ -12,7 +12,7 @@ CSImageClick is a Windows application designed to automate mouse clicks based on
 - Scale other than 100% in Display settings is NOT supported.
 
 ## Requirements
-- Windows 7 Operating System or newer
+- Windows 7 Operating System or newer (for newer see my CSAutoClick software as its much simpler to use and relies on real AI/computer vision recognition)
 - .NET Framework 3.5 (should already be included in Windows 7 and newer )
 - Scale of 100% in Display settings for the screen where you intend to use it
 
